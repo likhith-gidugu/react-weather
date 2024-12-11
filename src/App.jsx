@@ -81,7 +81,7 @@ function App() {
             
           </form>
     
-          <h3 class="text-xl font-semibold   p-4 rounded-lg ">
+          <h3 class=" font-semibold   p-4 rounded-lg ">
     Temperature At <label class='text-orange-600'>{display}</label> is  <label class='text-green-600'>{result}</label>°C
 </h3>
         </div>
